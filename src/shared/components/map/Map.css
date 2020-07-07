@@ -1,0 +1,14 @@
+.map {
+  width: 100%;
+  height: 100%;
+}
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.marker-btn img {
+  width: 20px;
+  height: 30px;
+}

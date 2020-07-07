@@ -1,0 +1,28 @@
+button {
+  margin: 0.25rem;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.map-btn {
+  color: #ff0055e0;
+  border: solid #ff0055e0;
+}
+.to-btn {
+  color: white;
+  border: solid #ff0055e0;
+  background-color: #ff0055e0;
+}
+
+.danger-btn {
+  color: white;
+  border: solid red;
+  background-color: red;
+}
+
+.cancel-btn {
+  color: white;
+  border: grey;
+  background-color: grey;
+}
